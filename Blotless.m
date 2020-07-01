@@ -6,9 +6,9 @@ clc
 addpath(genpath('utilities'))
 %% Generate a problem
 m = 64;                        % dictionary atom dimension
-l = 128;                       % number of dictionary atoms, l>m means over-complete dictionary
+l = 64;                       % number of dictionary atoms, l>m means over-complete dictionary
 k = 5;                         % Column sparsity
-n = 600;                       % Number of samples
+n = 400;                       % Number of samples
 D = randn(m,l);                
 D = column_normalize(D,2);     % Column-normalized Dictionary
 
