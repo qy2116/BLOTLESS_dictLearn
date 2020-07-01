@@ -1,6 +1,7 @@
 BLOTLESS: a new dictionary learning algorithm with BLOTLESS update
 
 =======================================================================
+
 For more technical details please refer to our paper: Yu, Qi, Wei Dai, Zoran Cvetkovi?, and Jubo Zhu. "Dictionary Learning with BLOTLESS Update." IEEE Transactions on Signal Processing 68 (2020): 1635-1645.
 
 If you find any issue, please let me know via email (yuqi10@nudt.edu.cn). I would really appreciate. Thank you.
