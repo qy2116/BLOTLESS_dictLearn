@@ -19,7 +19,7 @@ Table of content
 - [Blotless.m](A demo of BLOTLESS method using synthetic data.)
 - [Blotless_learnDict.m](Learning a complete/over-complete dictionary from image samples data 'tdata4.mat')
 - [Deoise_compare_allmethod](Denoising demo of images in our paper.)
-- [tdata4.mat](Image patches from dataset:Olivetti Research Laboratory (ORL) face database, each column is stands for a 8*8 patch)
+- [tdata4.mat](Image patches from dataset: Olivetti Research Laboratory (ORL) face database, each column stands for a 8*8 patch)
 - [3,5,6,7.pgm](Test face images used in our paper.)
 
 ========================================================================
