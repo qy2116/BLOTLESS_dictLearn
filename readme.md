@@ -1,4 +1,5 @@
-BLOTLESS: a new dictionary learning algorithm with BLOTLESS update
+BLOTLESS: a new dictionary learning algorithm with BLOTLESS update. 
+(Compared to the benchmark algorithms, BLOTLESS method works better when the number of training samples is small. This could be useful in some cases that only a small dataset is given, and we need to train a reasonable dictionary for sparse representation.)
 
 =======================================================================
 
