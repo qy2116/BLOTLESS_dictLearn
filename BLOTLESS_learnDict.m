@@ -22,7 +22,7 @@ k = 10;                                      % Sparsity level
 n = Num_data;
 
 %% Initial Dictionary
-D_ini = randn(m,l);
+D_ini = rand(m,l);
 D_ini = column_normalize(D_ini,2);
 
 %% Parameters for all algorithms
